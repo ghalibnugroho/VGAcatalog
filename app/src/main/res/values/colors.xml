@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#290730</color>
+    <color name="colorPrimaryDark">#2B0630</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="barTab">#2F263C</color>
+    <color name="colorAccent1">#611B6F</color>
+    <color name="colorCalm">#C4663F72</color>
+    <color name="colorCalmBlue">#C4006979</color>
+    <color name="black">#C4000000</color>
+</resources>

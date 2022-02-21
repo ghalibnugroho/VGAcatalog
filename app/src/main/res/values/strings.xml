@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VGACatalog</string>
+    <string name="vga_name">VGA_name</string>
+    <string name="vga_detail">vga_detail</string>
+    <string name="harga_dipasaran">harga_dipasaran</string>
+    <string name="harga_dapat_berubah">harga_dapat_berubah</string>
+    <string name="intro">Intro</string>
+    <string name="specification">Specification</string>
+    <string name="graphic_engine">Graphic Engine</string>
+    <string name="value_graphic_engine">value_graphic_engine</string>
+    <string name="value_video_memory">value_video_memory</string>
+    <string name="video_memory">Video Memory</string>
+    <string name="cuda_core">Cuda Core</string>
+    <string name="value_cuda_core">value_cuda_core</string>
+    <string name="core_clock">Core Clock</string>
+    <string name="value_core_clock">value_core_clock</string>
+    <string name="memory_clock">Memory Clock</string>
+    <string name="value_memory_clock">value_memory_clock</string>
+    <string name="value_opengl">value_openGL</string>
+    <string name="max_display">Max. Display</string>
+    <string name="value_max_display">value_max_display</string>
+    <string name="recommended_psu">Recommended PSU</string>
+    <string name="value_recom_psu">value_recom_psu</string>
+    <string name="value_power_connection">value_power_connection</string>
+    <string name="value_sli_support">value_sli_support</string>
+    <string name="nama">nama</string>
+    <string name="opengl">OpenGL</string>
+</resources>
